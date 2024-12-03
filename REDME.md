@@ -7,3 +7,4 @@ MARKDOWN.*
 ####¿Qué es gitignore y para qué sirve?
 Es un archiv que podemos usa para evitar ncluir archivos no deseados en
 nuestro git repositorio.
+# Pr-ctica-3---GitHub-y-repositorio-remoto
