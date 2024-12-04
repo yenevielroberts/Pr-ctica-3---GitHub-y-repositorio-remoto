@@ -25,3 +25,13 @@ del readme elnombre del repositorio.*
 -git branch -M main
 -git remote add origin https://github.com/yenevielroberts/Pr-ctica-3---GitHub-y-repositorio-remoto.git
 -git push -u origin main
+####*Comands alias que he usado*
+Mi comando a es igual a git add . 
+comando s es igual a git status --short
+comando log es igual a git log
+
+###Parte1: preparación del proyecto
+
+
+Creacion de la carpeta GitRobertsYeneviel2425 con el comndo mkdir
+![creacion de la carpeta](Ex3/creacion de la carpeta.png)
