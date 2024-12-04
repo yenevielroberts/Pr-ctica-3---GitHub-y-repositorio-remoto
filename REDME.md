@@ -34,4 +34,5 @@ comando log es igual a git log
 
 
 Creacion de la carpeta GitRobertsYeneviel2425 con el comndo mkdir
-![creacion de la carpeta](Ex3/creacion de la carpeta.png)
+
+![creacion de la carpeta](Ex3 /creacion de la carpeta.png)
