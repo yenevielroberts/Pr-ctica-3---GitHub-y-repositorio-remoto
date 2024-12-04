@@ -33,6 +33,6 @@ comando log es igual a git log
 ###Parte1: preparación del proyecto
 
 
-Creacion de la carpeta GitRobertsYeneviel2425 con el comndo mkdir
+Creacion de la carpeta GitRobertsYeneviel2425 con el comando mkdir
 
-![creacion de la carpeta](Ex3 /creacion de la carpeta.png)
+![creacion-de-la-carpeta](Ex3/creacion-de-la-carpeta.png)
