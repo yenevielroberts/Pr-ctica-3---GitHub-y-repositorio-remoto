@@ -19,18 +19,25 @@ del readme elnombre del repositorio.*
 
 ####**Comando que me da Git Hub al crear un repositorio nuevo**
 -echo "# Pr-ctica-3---GitHub-y-repositorio-remoto" >> README.md
+
 -git init
+
 -git add README.md
+
 -git commit -m "first commit"
+
 -git branch -M main
+
 -git remote add origin https://github.com/yenevielroberts/Pr-ctica-3---GitHub-y-repositorio-remoto.git
+
 -git push -u origin main
+
 ####*Comands alias que he usado*
 Mi comando a es igual a git add . 
 comando s es igual a git status --short
 comando log es igual a git log
 
-###Parte1: preparación del proyecto
+###**Parte1: preparación del proyecto**
 
 
 -Creacion de la carpeta GitRobertsYeneviel2425 con el comando mkdir
@@ -58,7 +65,7 @@ touch.
 ![primer-git-status](Ex3/primer-git-status)
 ![primer-commit](Ex3/primer-commit)
 
-###Parte 2: colaboración en equipo
+###**Parte 2: colaboración en equipo**
 
 -Entra en git hub y crea un repositorio
 -Repositorio con archivo readme
@@ -85,6 +92,8 @@ git push origin main
 -Git pull desde la rama main con el comando git pull origin main
 ![git-pull](Ex3/git-pull.png)
 
+
+###**Parte 3: Gestión de Archivos y Cambios**
 -Creación del archivo src/app.py con el comando cat
 -Git add y commit con los comandos git add . git commit -m""
 ![git-add-archivo-src.py.png](Ex3/git-add-archivo-src.py.png)
@@ -105,3 +114,15 @@ git push origin main
 -Verificar los cambios realizados y el historial con el alias log
 ![historial](Ex3/historial.png)
 
+###**Parte 4: Entrega del Proyecto**
+-Push final con el comando git push origin main
+![push-final](Ex3/push-final-png)
+
+-Eliminación de la rama feature/documentacion
+![eliminacion-de-la-ramafeature](Ex3/eliminacion-de-la-ramafeature.png)
+
+-Listar el contenido de cada directorio
+![]()
+
+-Mostrar el contenido de cada directorio
+![]()
