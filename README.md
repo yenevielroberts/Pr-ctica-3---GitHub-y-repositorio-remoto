@@ -130,7 +130,7 @@ git push origin main
 - Contenido de los últimos archivos con el comando cat
 ![contenido-html](Ex3/contenido-html.png)
 ![contenido-css](Ex3/contenido-css.png)
-![contenido-mainjs](Ex3/contenido-mainjs-png)
+![contenido-mainjs](Ex3/contenido-mainjs.png)
 ![contenido-docs](Ex3/contenido-docs.png)
 
 
